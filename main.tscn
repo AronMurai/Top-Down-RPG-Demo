@@ -466,19 +466,17 @@ frame = 0
 
 [node name="Clock" parent="Decoration" instance=ExtResource( 5 )]
 position = Vector2( 1408, 256 )
-frame = 1
 
 [node name="Clock2" parent="Decoration" instance=ExtResource( 5 )]
 position = Vector2( 832, 64 )
+frame = 1
 
 [node name="Clock3" parent="Decoration" instance=ExtResource( 5 )]
 position = Vector2( 1392, -2848 )
-frame = 1
 offset = Vector2( -720, 1736 )
 
 [node name="Clock4" parent="Decoration" instance=ExtResource( 5 )]
 position = Vector2( 320, -3072 )
-frame = 1
 
 [node name="ResetTriggers" type="Node" parent="."]
 
